@@ -1,2 +1,2 @@
-# web1_introduction
-week1
+# WEB1_introduction
+week1 - HTML/CSS
